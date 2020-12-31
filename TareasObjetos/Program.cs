@@ -62,8 +62,17 @@ namespace TareasObjetos
             //Console.WriteLine(P1.Contraseña);
             */
 
+            /*
             Electrodomesticos E1 = new Electrodomesticos(5000,"verde",'F',8);
             E1.Imprimir();
+            */
+
+            Serie S1 = new Serie();
+            S1.Imprimir();
+            Serie S2 = new Serie("Los Soprano", "Michael Night");
+            S2.Imprimir();
+            Serie S3 = new Serie("The Wire", "Michael Case", 5, "Policiaca");
+            S3.Imprimir();
         }
     }
 }
