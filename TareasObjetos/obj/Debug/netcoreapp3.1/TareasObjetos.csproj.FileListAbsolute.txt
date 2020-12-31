@@ -1,0 +1,13 @@
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\bin\Debug\netcoreapp3.1\TareasObjetos.exe
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\bin\Debug\netcoreapp3.1\TareasObjetos.deps.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\bin\Debug\netcoreapp3.1\TareasObjetos.runtimeconfig.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\bin\Debug\netcoreapp3.1\TareasObjetos.runtimeconfig.dev.json
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\bin\Debug\netcoreapp3.1\TareasObjetos.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\bin\Debug\netcoreapp3.1\TareasObjetos.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\obj\Debug\netcoreapp3.1\TareasObjetos.csprojAssemblyReference.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\obj\Debug\netcoreapp3.1\TareasObjetos.AssemblyInfoInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\obj\Debug\netcoreapp3.1\TareasObjetos.AssemblyInfo.cs
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\obj\Debug\netcoreapp3.1\TareasObjetos.csproj.CoreCompileInputs.cache
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\obj\Debug\netcoreapp3.1\TareasObjetos.dll
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\obj\Debug\netcoreapp3.1\TareasObjetos.pdb
+C:\Users\gerardo.aguilar\source\repos\GerardoAguilarGomez\Sesion7-Tareas\TareasObjetos\obj\Debug\netcoreapp3.1\TareasObjetos.genruntimeconfig.cache
