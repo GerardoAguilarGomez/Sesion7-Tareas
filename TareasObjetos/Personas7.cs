@@ -12,13 +12,14 @@ namespace TareasObjetos
         private char sexo;
         private int peso;
         private float altura;
+        const char SEXO_DEFECTO = 'H';
 
         public Personas7()
         {
             this.nombre = "";
             this.edad = 0;
             this.dni = "";
-            this.sexo = 'H';
+            this.sexo = SEXO_DEFECTO;
             this.peso = 0;
             this.altura = 0;
         }

@@ -53,13 +53,17 @@ namespace TareasObjetos
             Console.WriteLine("Coche: {0} {1} {2} cc {3} cv", Coche1.Marca,Coche1.Modelo,Coche1.Cilindrada,Coche1.Potencia);
             */
 
-            
+            /*
             Console.WriteLine("Indica longitud de la contraseña: ");
             string r = Console.ReadLine();
             int longi= Convert.ToInt32(r);
             Password P1 = new Password(longi);
             P1.GenerarContraseña();
             //Console.WriteLine(P1.Contraseña);
+            */
+
+            Electrodomesticos E1 = new Electrodomesticos(5000,"verde",'F',8);
+            E1.Imprimir();
         }
     }
 }
