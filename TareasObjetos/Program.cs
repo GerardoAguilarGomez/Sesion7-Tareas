@@ -36,11 +36,20 @@ namespace TareasObjetos
             p2.Saludar();
             */
 
+            /*
             Libros L1 = new Libros();
             L1.Autor="Benito Perez Galdos";
             L1.Libro="La odisea";
             L1.Ubicacion="Pasillo 3, estanteria B";
             Console.WriteLine("Libro: {0}; Autor: {1}; Pasillo: {2}",L1.Libro,L1.Autor,L1.Ubicacion);
+            */
+
+            Coches Coche1 = new Coches();
+            Coche1.Marca = "Mazda";
+            Coche1.Modelo = "Cx5";
+            Coche1.Cilindrada = 2000;
+            Coche1.Potencia = 165;
+            Console.WriteLine("Coche: {0} {1} {2} cc {3} cv", Coche1.Marca,Coche1.Modelo,Coche1.Cilindrada,Coche1.Potencia);
         }
     }
 }
