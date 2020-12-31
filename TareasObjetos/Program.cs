@@ -26,6 +26,7 @@ namespace TareasObjetos
             O1.Divi();
             */
 
+            /*
             Personas P1 = new Personas();
             P1.SetNombre("Gerardo");
             P1.Saludar();
@@ -33,6 +34,13 @@ namespace TareasObjetos
             Personas p2 = new Personas();
             p2.SetNombre("Andrés");
             p2.Saludar();
+            */
+
+            Libros L1 = new Libros();
+            L1.Autor="Benito Perez Galdos";
+            L1.Libro="La odisea";
+            L1.Ubicacion="Pasillo 3, estanteria B";
+            Console.WriteLine("Libro: {0}; Autor: {1}; Pasillo: {2}",L1.Libro,L1.Autor,L1.Ubicacion);
         }
     }
 }
